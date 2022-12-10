@@ -36,4 +36,4 @@ sudo service networking restart
 
 # License
 
-This sysctl.conf configuration is licensed under the MIT License.
+This sysctl.conf configuration is licensed under the [MIT License](https://mit-license.org/).
